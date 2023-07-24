@@ -1,0 +1,7 @@
+djangorestframework
+django-cors-headers
+Pillow
+djangorestframework-simplejwt
+djoser
+python-dotenv
+drf-yasg
