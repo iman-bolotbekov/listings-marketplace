@@ -56,7 +56,7 @@ npm run build
 ![Alt text](media/readme_imgs/detail.png)
 ![Alt text](media/readme_imgs/create.png)
 ![Alt text](media/readme_imgs/edit.png)
-![Alt text](media/readme_imgs/land.png)
+![Alt text](media/readme_imgs/contact.png)
 ![Alt text](media/readme_imgs/login.png)
 ![Alt text](media/readme_imgs/register.png)
 ![Alt text](media/readme_imgs/reset_password.png)
